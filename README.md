@@ -1,12 +1,12 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Web3 0" />
+  <img src="./.github/app.gif" alt="FUND ME" />
 
   &#xa0;
 
   <!-- <a href="https://web30.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Web3 0</h1>
+<h1 align="center">Fund Me</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/web3-0?color=56BEB8">
