@@ -74,7 +74,7 @@ Also the netwrok URLs are read through the .env file, so make sure to include th
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{LogiqueClergyman}}/Solidity_FundMe_Foundry
+$ git clone https://github.com/LogiqueClergyman/Solidity_FundMe_Foundry
 
 # Access
 $ cd Solidity_FundMe_Foundry
@@ -93,7 +93,7 @@ $ forge script script/DeployFundMe.s.sol --rpc-url $SEPOLIA_RPC_URL --private-ke
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{LogiqueClergyman}}" target="_blank">{{Aditya}}</a>
+Made with :heart: by <a href="https://github.com/LogiqueClergyman" target="_blank">Aditya</a>
 
 &#xa0;
 
