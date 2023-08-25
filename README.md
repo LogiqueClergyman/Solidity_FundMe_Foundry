@@ -46,7 +46,7 @@
 
 ## :dart: About ##
 
-A simple smart contract written in Solidity, and developed using the Foundry Toolkit.
+A smart contract written in Solidity, and developed using the Foundry Toolkit.
 Allows funders to fund the contract, then only and only the contract deployer can withdraw the funds.
 
 ## :sparkles: Features ##
